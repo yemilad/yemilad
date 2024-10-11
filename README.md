@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Opeyemi Olaopa-@yemilad
+- 👋 Hi, I’m Oladeji Olaopa-@yemilad
 - 👀 I’m interested in working in a data-driven enviroment.
 - 💞️ I’m looking to collaborate on data and research projects
 - 📫 How to reach me:yemilad@gmail.com
